@@ -7,7 +7,7 @@
 4. Cloudflare Account specs need to be set in environment variables, namespaces for Devs, Pulls and Tables need to be created in KV Workers section manually at
    https://dash.cloudflare.com/${yourAccountId}/workers/kv/namespaces
 6. Comment messages and settings need to be adjusted in settings.js
-7. Bot has currently two main parts: **assign** and **payout**
+7. Bot has currently two main parts: **assign** and **payout**.
 
 ### Assign:
 - bot gets triggered by one of the `goPhrases` in form of comment under issue
